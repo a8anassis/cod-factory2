@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch1;
+package gr.aueb.cf.ch2;
 
 public class Test {
 
